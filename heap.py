@@ -1,7 +1,9 @@
 def swap(i, j):                    
     sq[i], sq[j] = sq[j], sq[i] 
+    
     def swap(i, j):                    
     sq[i], sq[j] = sq[j], sq[i] 
+    
     def swap(i, j):                    
     sq[i], sq[j] = sq[j], sq[i] 
 
